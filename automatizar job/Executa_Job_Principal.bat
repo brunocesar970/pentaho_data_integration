@@ -1,0 +1,1 @@
+C:\Users\Lenovo\Documents\pentaho\data-integration\Kitchen.bat /rep:"Projeto" /job:"job_principal"
